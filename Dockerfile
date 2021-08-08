@@ -1,4 +1,4 @@
-FROM yayanksenpai/slam:alpine
+FROM narima/megaria:alpine
 
 WORKDIR /usr/src/app
 RUN chmod 777 /usr/src/app
